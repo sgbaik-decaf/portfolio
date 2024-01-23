@@ -1,5 +1,5 @@
 # Hello World!
-A simple... repository for my own personal public subjective objective use.
+A simple portfolio/repo for CMU 94-870 Telling Stories with Data
 
 A link to the main, live page is [https://sgbaik-decaf.github.io/](https://sgbaik-decaf.github.io/)
 
