@@ -8,22 +8,23 @@ Here's a link to a second page [https://sgbaik-decaf.github.io/newpage](https://
 
 # About Me
 
-First Name:	Seung Gyu	"sng-gyoo"
+|              	|                                         	                    |
+|--------------	|---------------------------------------------------------------|
+| First Name:  	| Seung Gyu "sng-gyoo"                                          |
+| Last Name:   	| Baik "baik"                                                   |
+| Pronouns:    	| He/Him                                  	                    |
+| Program:     	| M.S. Public Policy and Management - Fast Track               	|
+| Interest:    	| Smart Sustainable Mobility & Related Information Systems     	|
+| Career Goal: 	| Systems Analyst                         	                    |    
 
-Last Name:	Baik		"beck"	#If you have trouble pronouncing my first name, you are welcome to call me by my last name. You're not the only one!
-
-Pronouns:        He/Him
-
-Program:         Master of Science in Public Policy and Management - Fast Track
-
-Interest:        Smart sustainable mobility & related information systems
-
-Career Goal:     Systems Analyst
-
-Career Ready?:   I am... working on it.
+> If you have trouble pronouncing my first name, you are welcome to call me by my last name.
 
 # What I Hope to Learn
 
 1. Data Visualization
 2. Neat Data Visualization
 3. Readable Data Visualization
+4. Data Visualization in Geographic Context
+
+# Portfolio
+
