@@ -6,8 +6,6 @@ A link to the main, live page is [https://sgbaik-decaf.github.io/portfolio](http
 
 Here's a link to a second page [https://sgbaik-decaf.github.io/portfolio/newpage](https://sgbaik-decaf.github.io/portfolio/newpage)
 
-[/newpage](/newpage)
-
 # About Me
 
 |              	|                                         	                    |
