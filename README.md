@@ -11,7 +11,7 @@ Here's a link to a second page [https://sgbaik-decaf.github.io/newpage](https://
 |              	|                                         	                    |
 |--------------	|---------------------------------------------------------------|
 | First Name:  	| Seung Gyu "sng-gyoo"                                          |
-| Last Name:   	| Baik "baik"                                                   |
+| Last Name:   	| Baik "beck"                                                   |
 | Pronouns:    	| He/Him                                  	                    |
 | Program:     	| M.S. Public Policy and Management - Fast Track               	|
 | Interest:    	| Smart Sustainable Mobility & Related Information Systems     	|
