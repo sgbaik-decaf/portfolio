@@ -1,6 +1,8 @@
 # Government dept by countries 1995-2022 (Source: OECD)
 
-### An interactive visualization created with Tableau.
+Click blue "portfolio" to return to main
+
+There is an interactive graph embedded in it. Wait till it loads!
 
 Unit: Total dept, % of nations' GDP
 
