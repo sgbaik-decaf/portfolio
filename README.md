@@ -9,7 +9,9 @@ Here's a link to a second page for future use (enjoy the void!) [https://sgbaik-
 # About Me
 
 **First name:** Seung Gyu "sng-gyoo"
+
 **Last name:** Baik "beck"
+
 **Pronoun:** He/Him
 
 > If you have trouble pronouncing my first name, you are welcome to call me by my last name.
