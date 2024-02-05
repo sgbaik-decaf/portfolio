@@ -2,7 +2,7 @@
 
 Click blue `portfolio` to return to `main`.
 
-There is an interactive map embedded in it. Wait till it loads. If prompted, log in with your CMU or ESRI account.
+There is an interactive map *and* a stacked bar graph embedded in it. Wait till it loads. If prompted, log in with your CMU or ESRI account.
 
 For iPad users: a fullscreen alternative is available [here](https://carnegiemellon.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0781e9e4284c41248d0303d50ab5ee02)
 
@@ -95,7 +95,7 @@ Data missing in the file were manually filled in from the original visualization
 Data that do not align with each other (i.e. some countries not being in the EU) were omitted due to the nature of this project.
 
 
-# Scrapped alternative prototype (Stacked bar graph)
+# Alternative prototype (Stacked bar graph)
 
 <div class='tableauPlaceholder' id='viz1707117626028' style='position: relative'><noscript><a href='#'><img alt='Internet speed of European countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;eu&#47;eu_internet_test&#47;Sheet13&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='eu_internet_test&#47;Sheet13' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;eu&#47;eu_internet_test&#47;Sheet13&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='ko-KR' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
@@ -107,3 +107,34 @@ Data that do not align with each other (i.e. some countries not being in the EU)
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+As an alternative to the map, I also came up with a stacked bar graph. Data is from the original author's [github.com](https://github.com/EDJNet/internet_speed).
+
+The darker blue represents the average download speed while the lighter blue indicates the average upload speed.
+
+The reasoning behind this is that I wanted to visualize both the download and upload speed at the same time: the download speed being the primary data and the upload speed as a proportion of the download speed.
+
+Due to my limited Tableau skills, the download speed is prompted with `AGG(AVG([avg d]) - AVG([avg u]))`.
+
+This is the value that pops up when one hovers the mouse on the darker blue, completely not what I intented.
+
+
+
+### Tester C (mid 20's, master's degree candidate in public policy) commented on both the map and the graph as below.
+
+1. What worked well?
+
+I like the interactability of the map. The map is better.
+
+2. What did not work?
+
+Knowing what each color means takes time (both the map and the graph).
+
+3. What question came up?
+
+Why did you choose YouTube, Gmail, etc instead of internet speed?
+* I explained the reasoning of 'real user experience' to Tester C, and (s)he commented "Okay".
+
+5. What new inspiration arose?
+
+You and I should work harder in making a stacked bar graph in Tableau.
+* Tester C was also working on a stacked bar graph with another student. 
