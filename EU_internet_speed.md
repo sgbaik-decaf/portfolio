@@ -6,7 +6,7 @@ There is an interactive map embedded in it. Wait till it loads. If prompted, log
 
 For iPad users: a fullscreen alternative is available [here](https://carnegiemellon.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0781e9e4284c41248d0303d50ab5ee02)
 
-<iframe src="https://carnegiemellon.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0781e9e4284c41248d0303d50ab5ee02" width="1200" height="800" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+<iframe src="https://carnegiemellon.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0781e9e4284c41248d0303d50ab5ee02" width="1000" height="700" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
 This is part of an academic work of *94-870 Telling Stories with Data* (Spring 2024) at Carnegie Mellon University.
 
