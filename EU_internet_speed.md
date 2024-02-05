@@ -40,19 +40,19 @@ I replaced the labels of countries with full names with variable visibility (no 
 
 1. How long did it take for you to recognize what this is for?
 
-10 seconds.
+> 10 seconds.
 
 2. Is there anything you find confusing?
 
-There is too much word on the legend.
+> There is too much word on the legend.
 
 3. Is there anything you find aesthetically unpleasant? Please rate this visualization on a 5-level scale.
 
-4.9 / 5
+> 4.9 / 5
 
 5. Is there anything you would change or do differently?
 
-It could have been better if you focused on one thing such as "4K YouTube".
+> It could have been better if you focused on one thing such as "4K YouTube".
 
 
 
@@ -60,19 +60,19 @@ It could have been better if you focused on one thing such as "4K YouTube".
 
 1. How long did it take for you to recognize what this is for?
 
-10 seconds.
+> 10 seconds.
 
 2. Is there anything you find confusing?
 
-The abbreviated 3-letter country names obscure the map. Good otherwise.
+> The abbreviated 3-letter country names obscure the map. Good otherwise.
 
 3. Is there anything you find aesthetically unpleasant? Please rate this visualization on a 5-level scale.
 
-4.5 / 5. I like the typeface but I don't think it's needed in the first place.
+> 4.5 / 5. I like the typeface but I don't think it's needed in the first place.
 
 5. Is there anything you would change or do differently?
 
-The background does not match with the actual data layer. Do we need a background map? Try using Python to ... ... (technical advice).
+> The background does not match with the actual data layer. Do we need a background map? Try using Python to ... ... (technical advice).
 
 
 
@@ -123,18 +123,20 @@ This is the value that pops up when one hovers the mouse on the darker blue, com
 
 1. What worked well?
 
-I like the interactability of the map. The map is better.
+> I like the interactability of the map. The map is better.
 
 2. What did not work?
 
-Knowing what each color means takes time (both the map and the graph).
+> Knowing what each color means takes time (both the map and the graph).
 
 3. What question came up?
 
-Why did you choose YouTube, Gmail, etc instead of internet speed?
+> Why did you choose YouTube, Gmail, etc instead of internet speed?
+
 * I explained the reasoning of 'real user experience' to Tester C, and (s)he commented "Okay".
 
 5. What new inspiration arose?
 
-You and I should work harder in making a stacked bar graph in Tableau.
+> You and I should work harder in making a stacked bar graph in Tableau.
+
 * Tester C was also working on a stacked bar graph with another student. 
