@@ -45,10 +45,6 @@ I wish to be a systems analyst in the autonomous delivery industry.
 
 # Portfolio (and Homeworks)
 
-HW 0129: Govt Dept 2021 [https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
-
-HW 0129: Govt Dept 1995-2022 [https://sgbaik-decaf.github.io/portfolio/govtdept_tableau.html](https://sgbaik-decaf.github.io/portfolio/govtdept_tableau.html)
-
-HW 0129: Govt Dept Japan vs US vs OECD Average in circles [https://sgbaik-decaf.github.io/portfolio/govtdept_circle.html](https://sgbaik-decaf.github.io/portfolio/govtdept_circle.html)
+HW 0129: Govt Dept of the World [https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
 
 HW 0204: Internet Speed in European Countries [https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html](https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html)
