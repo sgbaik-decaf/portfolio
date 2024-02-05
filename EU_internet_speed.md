@@ -11,13 +11,15 @@ For iPad users: a fullscreen alternative is available [here](https://carnegiemel
 This is part of an academic work of *94-870 Telling Stories with Data* (Spring 2024) at Carnegie Mellon University.
 
 
-## ORIGINAL VISUALIZATION
+
+# ORIGINAL VISUALIZATION
 
 Average internet speed across Europe
 
 Ornaldo Gjergji, European Data Journalism Network
 
 [europeandatajournalism.eu](https://datavis.europeandatajournalism.eu/obct/connectivity/#third)
+
 
 
 # DEVELOPMENT
@@ -30,43 +32,48 @@ Other than the reconstruction of the interactive map, the main change is redefin
 
 Also, I changed the color scheme from `pale green - blue` to `mustard brown - blue` to communicate that lower internet speed is a no-fun experience. 
 
+I removed the labels of countries and added a filter showing the feasibility of "4K YouTube", following the recommendation of two testers.
+
+
 
 ### Tester A (late 10's, college student) commented as below.
 
 1. How long did it take for you to recognize what this is for?
 
-  10 seconds.
+10 seconds.
 
 2. Is there anything you find confusing?
 
-  There is too much word on the legend.
+There is too much word on the legend.
 
 3. Is there anything you find aesthetically unpleasant? Please rate this visualization on a 5-level scale.
 
-  4.9 / 5
+4.9 / 5
 
 5. Is there anything you would change or do differently?
 
-   It could have been better if you focused on one thing such as "4K Youtube".
+It could have been better if you focused on one thing such as "4K YouTube".
+
 
 
 ### Tester B (early 30's, post-doctorate researcher) commented as below.
 
 1. How long did it take for you to recognize what this is for?
 
-  10 seconds.
+10 seconds.
 
 2. Is there anything you find confusing?
 
-  The abbreviated 3-letter country names obscure the map. Good otherwise.
+The abbreviated 3-letter country names obscure the map. Good otherwise.
 
 3. Is there anything you find aesthetically unpleasant? Please rate this visualization on a 5-level scale.
 
-  4.5 / 5. I like the typeface but I don't think it's needed in the first place.
+4.5 / 5. I like the typeface but I don't think it's needed in the first place.
 
 5. Is there anything you would change or do differently?
 
-   Basemap does not match with the actual data layer. Try using Python to ... ... (technical advise).
+The background does not match with the actual data layer. Do we need a background map? Try using Python to ... ... (technical advice).
+
 
 
 # DATA SOURCES
