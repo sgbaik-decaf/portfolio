@@ -32,7 +32,7 @@ Other than the reconstruction of the interactive map, the main change is redefin
 
 Also, I changed the color scheme from `pale green - blue` to `mustard brown - blue` to communicate that lower internet speed is a no-fun experience. 
 
-I removed the labels of countries and added a filter showing the feasibility of "4K YouTube", following the recommendation of two testers.
+I replaced the labels of countries with full names with variable visibility (no letters when zoomed out to the big picture) and added a filter showing the feasibility of "4K YouTube", following the recommendation of two testers.
 
 
 
