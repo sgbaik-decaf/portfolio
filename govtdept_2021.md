@@ -1,6 +1,6 @@
 # Government debt of countries in 2021 (Source: OECD)
 
-Click blue "portfolio" to return to ***main***
+Click the blue `portfolio` button to return to `main`.
 
 There is an interactive graph embedded in it. Wait till it loads!
 
