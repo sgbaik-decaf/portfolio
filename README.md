@@ -2,7 +2,9 @@
 
 This is a simple portfolio/repo for **94-870 *Telling Stories with Data* at Carnegie Mellon**, potentially developable into my personal use.
 
-A link to the main, live page is [https://sgbaik-decaf.github.io/portfolio](https://sgbaik-decaf.github.io/portfolio)
+A link to the `main`, live page is [https://sgbaik-decaf.github.io/portfolio](https://sgbaik-decaf.github.io/portfolio)
+
+Click the blue `portfolio` button to return to `main`.
 
 Here's a link to a second page for future use (enjoy the void!) [https://sgbaik-decaf.github.io/portfolio/newpage](https://sgbaik-decaf.github.io/portfolio/newpage)
 
