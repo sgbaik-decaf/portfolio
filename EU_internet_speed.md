@@ -1,6 +1,6 @@
 # Internet speed of European Countries
 
-Click blue `portfolio` to return to `main`.
+Click the blue `portfolio` button to return to `main`.
 
 There is an interactive map *and* a stacked bar graph embedded in it. Wait till it loads. If prompted, log in with your CMU or ESRI account.
 
