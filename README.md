@@ -50,3 +50,6 @@ I wish to be a systems analyst in the autonomous delivery industry.
 HW 0129: Govt Dept of the World [https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
 
 HW 0204: Internet Speed in European Countries [https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html](https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html)
+
+Final Project Part 1: [https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
+
