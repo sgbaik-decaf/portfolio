@@ -23,7 +23,7 @@ From inception to Dec 31, 2023; both sets of ETFs showed a relative $\beta_E$ of
 
 `QQMG` and `XVV` are both passive funds, meaning that corporates with a firm ESG compliance is more likely to perform better than ones that don't. 
 
-* The term $\beta$ ('beta') commonly refers to Vanguard S&P 500 ETF(`VOO`).
+* The term $\beta$ ('beta') commonly sets Vanguard S&P 500 ETF(`VOO`) as a reference(1.0), and any other funds $\beta$ will be calculated compared to `VOO`.
 
 * In this project, however, I will use $\beta_E$, to note that I am comparing an ESG ETF to its vanilla twin.
 
