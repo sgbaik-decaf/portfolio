@@ -9,7 +9,7 @@ A corporate's social responsibility(CSR) is now commonly abstracted as environme
 
 Corporate ESG is increasingly being financially material as massive reorientation of funds have been made in ESG investments.
 
-The goal of this project is to visually compare the up-to-date financial return of two dominant sets of ESG-themed exchange traded funds(ETF) and its 'vanilla' counterpart as a relative $\beta_E$.
+The goal of this project is to visually compare the up-to-date financial return of two dominant sets of ESG-themed exchange traded funds(ETF) and its 'vanilla' counterpart as a relative β.
 
 Select ETFs are:
 
@@ -19,13 +19,13 @@ Select ETFs are:
 
 **Vanguard S&P 500 ETF**(`VOO`) vs **iShares ESG Screened S&P 500 ETF**(`XVV`)
 
-From inception to Dec 31, 2023; both sets of ETFs showed a relative $\beta_E$ of about 1.04, which means that **ESG ETFs made about 4% more investment return**.
+From inception to Dec 31, 2023; both sets of ETFs showed a relative β of about 1.04, which means that **ESG ETFs made about 4% more investment return**.
 
 `QQMG` and `XVV` are both passive funds, meaning that corporates with a firm ESG compliance is more likely to perform better than ones that don't. 
 
-* The term $\beta$ ('beta') commonly sets Vanguard S&P 500 ETF(`VOO`) as a reference(1.0), and any other funds $\beta$ will be calculated compared to `VOO`.
+* β commonly sets Vanguard S&P 500 ETF(`VOO`) as a reference(1.0), and any other funds $\beta$ will be calculated compared to `VOO`.
 
-* In this project, however, I will use $\beta_E$, to note that I am comparing an ESG ETF to its vanilla twin.
+* In this project(just in the backend summary, not in the product), I will use 'relative β' to note that I am comparing an ESG ETF to its vanilla twin.
 
 ## Data Source
 
