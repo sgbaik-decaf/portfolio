@@ -13,7 +13,11 @@ The goal of this project is to visually compare the up-to-date financial return 
 
 Select ETFs are:
 
-Invesco NASDAQ 100 ETF(`QQQM`) vs Invesco ESG NASDAQ 100 ETF(`QQMG`) & Vanguard S&P 500 ETF(`VOO`) vs iShares ESG Screened S&P 500 ETF(`XVV`)
+**Invesco NASDAQ 100 ETF**(`QQQM`) vs **Invesco ESG NASDAQ 100 ETF**(`QQMG`)
+
+&
+
+**Vanguard S&P 500 ETF**(`VOO`) vs **iShares ESG Screened S&P 500 ETF**(`XVV`)
 
 From inception to Dec 31, 2023; both sets of ETFs showed a relative $\beta_E$ of about 1.04, which means that **ESG ETFs made about 4% more investment return**.
 
@@ -31,7 +35,11 @@ Data will be prepped via Microsoft Excel and/or Visual Studio Code.
 
 ## Medium
 
-A draft of the visualization has been developed via Tableau.
+A draft of the visualization has been developed via Tableau: **Vanguard S&P 500 ETF**(`VOO`) vs **iShares ESG Screened S&P 500 ETF**(`XVV`)
+
+* Bar graph: additional return (%p)
+
+* Two line graphs: grey for the vanilla ETF's return, green for the ESG-themed ETF's return
 
 ![231007](https://github.com/sgbaik-decaf/portfolio/assets/157436755/123dc351-d2bb-4e14-8789-6b79fbd0b110)
 
