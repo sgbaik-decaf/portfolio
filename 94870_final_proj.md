@@ -9,7 +9,7 @@ A corporate's social responsibility(CSR) is now commonly abstracted as environme
 
 Corporate ESG is increasingly being financially material as massive reorientation of funds have been made in ESG investments.
 
-The goal of this project is to visually compare the up-to-date financial return of two dominant sets of American exchange traded funds(ETF) and its 'vanilla' counterpart as a relative $\beta_E$.
+The goal of this project is to visually compare the up-to-date financial return of two dominant sets of ESG-themed exchange traded funds(ETF) and its 'vanilla' counterpart as a relative $\beta_E$.
 
 Select ETFs are:
 
