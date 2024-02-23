@@ -53,3 +53,5 @@ HW 0204: Internet Speed in European Countries [https://sgbaik-decaf.github.io/po
 
 Final Project Part 1: [https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
 
+Final Project Part 2: [https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html)
+
