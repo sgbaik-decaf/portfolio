@@ -31,10 +31,10 @@ I drafted the final product with Shorthand, and am planning to keep this mode of
 ### Experience in personal investment: 0.5 years
 
 Is the author's intention and call for action clearly understandable? (1~5)
-> 3. The later half may need some more information.
+> 3, The later half may need some more information.
 
 Are the visualizations clear, aesthetic, and understandable? (1~5)
-> 5. Interactivity is fascinating, but not sure if necessary. I like the black background.
+> 5, Interactivity is fascinating, but not sure if necessary. I like the black background.
 
 Do You have any suggestions to improve the product?
 > You may need a professional-looking color scheme.
@@ -44,10 +44,10 @@ Do You have any suggestions to improve the product?
 ### Experience in personal investment: 2 years
 
 Is the author's intention and call for action clearly understandable? (1~5)
-> 4. You need to explain more about ESG itself.
+> 4, You need to explain more about ESG itself.
 
 Are the visualizations clear, aesthetic, and understandable? (1~5)
-> 4. Whatever you're building should blend in the background and be similar with the other graphs.
+> 4, Whatever you're building should blend in the background and be similar with the other graphs.
 
 Do You have any suggestions to improve the product?
 > Utilizing the embedded HTML, it would be better if you have a horizontal scrollbar that you can actively see the earnings given that you invested a certain amount of money on a certain date.
@@ -59,4 +59,4 @@ Are the visualizations clear, aesthetic, and understandable?
 > The line in your graph is to thin.
 
 Do You have any suggestions to improve the product?
-> You might want to mention "alternative investing" in addition to 'ESG': such as XXXXXXX (a website)
+> You might want to mention "alternative investing" in addition to 'ESG': such as XXXXXXX (website, personally identifiable information)
