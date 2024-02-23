@@ -1,8 +1,6 @@
 
 # 94-870 Final Project Part 2: Responsible money is Good money
 
-A link to the `main`, live page is https://sgbaik-decaf.github.io/portfolio
-
 Click the blue `portfolio` button to return to `main`.
 
 [Preview of product: under construction](https://preview.shorthand.com/YXK4ErDeZcNAvMl0)
@@ -15,20 +13,22 @@ I have implemented some changes as follows:
 2. The audience of my is now decided as *'People who are intersted in both **investment** & **public good**'*
 3. Developing a storyline:
 
-> I thought it would be good to start off with about 'making some money', since things like this may attract the audience's attention. Who'd not like to earn money?
-> Instead of going too deep about 'what is ESG investing' or 'what is an ETF', I came up with a visualization (not data!) that shows the vanilla funds and the ESG twins.
-> I assume the audience will be familiar with Exchange-traded Funds(ETF) and its three-letter-codes.
-> After presenting the comparison data, I will also append that the whole ESG investment notion is getting smaller rapidly.
-> My call for action will be *'Please invest more on ESG funds! It's good for you and everyone else!'*
+- I thought it would be good to start off with about 'making some money', since things like this may attract the audience's attention. Who'd not like to earn money?
+- Instead of going too deep about 'what is ESG investing' or 'what is an ETF', I came up with a visualization (not data!) that shows the vanilla funds and the ESG twins.
+- I assume the audience will be familiar with Exchange-traded Funds(ETF) and its three-letter-codes.
+- After presenting the comparison data, I will also append that the whole ESG investment notion is getting smaller rapidly.
+- My call for action will be *'Please invest more on ESG funds! It's good for you and everyone else!'*
 
-# Wireframing with *Shorthand*
+### Wireframing with *Shorthand*
 
-I drafted the final product with Shorthand, and am planning to keep this mode of delivery.
+I drafted the final product with *Shorthand*, and am planning to keep this mode of delivery.
+
+I also used *Tableau* as the main software for data visualization, and one set of image from Powerpoint(not data!). 
 
 # User Research
 
 ## Tester A: Late 10s, female, college student, industrial enginneering
-### Experience in personal investment: 0.5 years
+### Experience in personal investment: 1 years
 
 Is the author's intention and call for action clearly understandable? (1~5)
 > 3, The later half may need some more information.
@@ -41,7 +41,7 @@ Do You have any suggestions to improve the product?
 > You may need a more precise story of pursuation.
 
 ## Tester B: Late 20s, male, doctoral student, statistics
-### Experience in personal investment: 2 years
+### Experience in personal investment: 3 years
 
 Is the author's intention and call for action clearly understandable? (1~5)
 > 4, You need to explain more about ESG itself.
@@ -51,6 +51,7 @@ Are the visualizations clear, aesthetic, and understandable? (1~5)
 
 Do You have any suggestions to improve the product?
 > Utilizing the embedded HTML, it would be better if you have a horizontal scrollbar that you can actively see the earnings given that you invested a certain amount of money on a certain date.
+> There are too many photos in the background. It may distract people. "Tone-down" a bit.
 
 ## Tester C: (age unknown), female, masters student
 ### Experience in personal investment: professional work experience in an alternative invstment-related NGO
@@ -60,3 +61,8 @@ Are the visualizations clear, aesthetic, and understandable?
 
 Do You have any suggestions to improve the product?
 > You might want to mention "alternative investing" in addition to 'ESG': such as XXXXXXX (website, personally identifiable information)
+
+# Things to fix based on feedback
+
+1. A 'simple' set of colors as a background? Applying background photos with the same filters everywhere seems possible, unsure if it's a good idea.
+2. Horizontal bar? I would have to do some research to see if that is even feasible.
