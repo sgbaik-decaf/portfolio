@@ -1,5 +1,11 @@
 Click [HERE](https://sgbaik-decaf.github.io/portfolio/) to return to `main` page of the Porfolio.
 
+Final Project Part 1/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
+
+Final Project Part 2/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html)
+
+Final Project Part 3/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
+
 > [!IMPORTANT]
 > This material does not provide any kind of financial forecast.
 > Do not take this material as an advice for your financial investment decisions.
