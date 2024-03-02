@@ -1,3 +1,8 @@
+Final Project Part 1/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
+
+Final Project Part 2/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html)
+
+Final Project Part 3/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
 
 # 94-870 Final Project Part 2: Responsible money is Good money
 
