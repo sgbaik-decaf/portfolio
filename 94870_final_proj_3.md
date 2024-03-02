@@ -63,16 +63,32 @@ Due to the use of multiple stock images(*Unsplash*) and limitations of the platf
 
 Over setting a color scheme, maintaining text readability was my priority.
 
+On the other hand, I was satisfied with my *Canva* and *Tableau* visualizations.
+
 > Utilizing the embedded HTML, it would be better if you have a horizontal scrollbar that you can actively see the earnings given that you invested a certain amount of money on a certain date.
 
-This was the most impressive recommendation, but it technically was not feasible within limoted timeframe.
+This was the most impressive recommendation, but it just was not feasible within a limited timeframe.
 
-## Additional reflection
+I might look into *Tableau* or HTML more in the future.
 
-### Professional image design
+# Reflection
 
-### Gen AI
+## Professional image design
 
-### Copyrights
+*Unsplash* was especially useful in using copyright-compliant images, but it was troublesome to find an image that perfectly fits my needs.
 
-### GitHub repository
+Ideally, using *Illustrator* and making 'cute' images myself should have been very good.
+
+## Gen AI
+
+I remember one of my colleagues using *Dall-E* to make images that perfectly fits in the context.
+
+Advancements in generative AI such as *Sora* might discontinue the need of good design skills.
+
+As a person who gave up landscape architecture due to alarmingly poor freehand drawing, I am very intrigued to utilize the tech in the future.
+
+## Copyrights
+
+Creating a publicly available product made me nervous. Building such project in a vocational setting will be subject to strict copyright regulations.
+
+I must be comfortable and confident in creating something(datasets, visualizations) inaccordance with copyrights. This project was a valuable experience.
