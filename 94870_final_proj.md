@@ -1,3 +1,5 @@
+Click [HERE](https://sgbaik-decaf.github.io/portfolio/) to return to `main` page of the Porfolio.
+
 Final Project Part 1/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
 
 Final Project Part 2/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html)
