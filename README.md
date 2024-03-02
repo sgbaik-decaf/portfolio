@@ -16,7 +16,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 **FIRST NAME:**
 - Seung Gyu "sng-gyoo"
 
-**GIVEN NAME:**
+**LAST NAME:**
 - Baik "beck"
 
 **PRONOUNS:**
@@ -44,7 +44,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 # Portfolio Links
 
-## 94-870 `Telling Stories with Data` at Carnegie Mellon
+## `Telling Stories with Data` at Carnegie Mellon
 
 HW 0129: Govt Dept of the World [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
 
