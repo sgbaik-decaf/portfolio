@@ -42,7 +42,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 2016-2020 | BS Environmental Science and Ecological Engineering, Korea University
 
-# Portfolio
+# Portfolio Links
 
 ### 94-870 `Telling Stories with Data` at Carnegie Mellon
 
