@@ -1,28 +1,36 @@
 # Hello World!
 
-This is a simple portfolio/repo for **94-870 *Telling Stories with Data* at Carnegie Mellon**, potentially developable into my personal use.
+This is a simple portfolio/repo for my data visualizations and codes.
 
-A link to the `main`, live page is [https://sgbaik-decaf.github.io/portfolio](https://sgbaik-decaf.github.io/portfolio)
+Click [HERE](https://sgbaik-decaf.github.io/portfolio/main.html) to return to `main` page of my repo.
 
-Click the blue `portfolio` button to return to `main`.
+You can also click the blue `portfolio` button to return to `main`.
 
-Here's a link to a second page for future use (enjoy the void!) [https://sgbaik-decaf.github.io/portfolio/newpage](https://sgbaik-decaf.github.io/portfolio/newpage)
+The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgbaik-decaf.github.io/portfolio).
+
+Here's a link to a second page for future use. Enjoy the [void!](https://sgbaik-decaf.github.io/portfolio/newpage)
 
 # About Me
 
-**First name:** Seung Gyu "sng-gyoo"
+> [!IMPORTANT]
+> My primary contact is seunggyb@andrew.cmu.edu.
 
-**Last name:** Baik "beck"
+**FIRST NAME:**
+- Seung Gyu "sng-gyoo"
 
-**Pronoun:** He/Him
+**GIVEN NAME:**
+- Baik "beck"
 
-> If you have trouble pronouncing my first name, you are welcome to call me by my last name.
+**PRONOUNS:**
+- He/Him
 
-I am in the **MS Public Policy and Management - Fast Track ('24)** program at Heinz College of Information Systems and Public Policy.
+> *If convenient for you, you are welcome to call me by my last name.*
 
-I am interested in smart sustainable mobility & supporting systems (i.e. control and dispatch systems for delivery robots)
+**INTERESTS:**
 
-I wish to be a systems analyst in the autonomous delivery industry.
+- I am interested in smart sustainable mobility & supporting systems (i.e. control and dispatch systems for delivery robots)
+
+- I am a systems analyst aspirant in the autonomous micromobility industry.
 
 # Bio
 
@@ -32,26 +40,18 @@ I wish to be a systems analyst in the autonomous delivery industry.
 
 2020-2023 | First Lieutenant, Weapons Director / ROK-US Coordinator, Republic of Korea Air Force
 
-2016-2020 | BS Environmental Science and Ecological Engineering, Korea University
-
 2017-2019 | Random internships and part-time jobs: bakery chain, sushi restaurant, library, government, non-government
 
-1997-2015 | Chief junior associate senior nerd analyst engineer, World Otaku Foundation
+2016-2020 | BS Environmental Science and Ecological Engineering, Korea University
 
-# What I Hope to Learn
+# Portfolio: 94-870 `Telling Stories with Data` at Carnegie Mellon
 
-1. Data Visualization
-2. Neat Data Visualization
-3. Readable Data Visualization
-4. Data Visualization in Geographic Context
+HW 0129: Govt Dept of the World [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
 
-# Portfolio (and Homeworks)
+HW 0204: Internet Speed in European Countries [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html)
 
-HW 0129: Govt Dept of the World [https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
+Final Project Part 1/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
 
-HW 0204: Internet Speed in European Countries [https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html](https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html)
+Final Project Part 2/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html)
 
-Final Project Part 1: [https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
-
-Final Project Part 2: [https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html)
-
+Final Project Part 3/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
