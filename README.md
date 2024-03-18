@@ -26,7 +26,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 **INTERESTS:**
 
-- Smart sustainable cities (i.e. walkable cities)
+- Smart, sustainable cities (i.e. walkable cities)
 - Smart mobility (i.e. delivery robots)
 
 # Bio
@@ -43,14 +43,13 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 # Portfolio Links
 
-## `Telling Stories with Data` at Carnegie Mellon
+## 94-870 Telling Stories with Data
 
-HW 0129: Govt Dept of the World [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
+Homework 240129 : Govt Dept of the World [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
 
-HW 0204: Internet Speed in European Countries [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html)
+Homework 240204 : Internet Speed in European Countries [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html)
 
-Final Project Part 1/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj.html)
+Final Project : [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
 
-Final Project Part 2/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_2.html)
+## 90-753 Spatial Data Science with ArcGIS Pro
 
-Final Project Part 3/3: [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
