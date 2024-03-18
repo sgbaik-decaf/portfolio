@@ -1,6 +1,6 @@
 # Hello World!
 
-This is a simple portfolio/repo for my data visualizations and codes.
+This is a simple portfolio/repo for my coursework at Carnegie Mellon.
 
 Click [HERE](https://sgbaik-decaf.github.io/portfolio) to return to `main` page of my repo.
 
@@ -26,9 +26,8 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 **INTERESTS:**
 
-- I am interested in smart sustainable mobility & supporting systems (i.e. control and dispatch systems for delivery robots)
-
-- I am a systems analyst aspirant in the autonomous micromobility industry.
+- Smart sustainable cities (i.e. walkable cities)
+- Smart mobility (i.e. delivery robots)
 
 # Bio
 
