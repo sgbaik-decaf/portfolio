@@ -53,3 +53,7 @@ Final Project : [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_fin
 
 ## 90-753 Spatial Data Science with ArcGIS Pro
 
+## 90-711 Statistical Reasoning with R
+
+## 90-819 Python Programming
+
