@@ -22,12 +22,12 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 **PRONOUNS:**
 - He/Him
 
-> *If convenient for you, you are welcome to call me by my last name.*
+> *If more convenient, you are welcome to call me by my last name.*
 
 **INTERESTS:**
 
-- Smart, sustainable cities (i.e. walkable cities)
-- Smart mobility (i.e. delivery robots)
+- Smart & Sustainable Cities (i.e. walkable cities, delivery robots, transportation)
+- Spatial Data Analysis & Geogrpahic Information Systems(GIS)
 
 # Bio
 
@@ -54,6 +54,10 @@ Final Project : [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_fin
 ## 90-753 Spatial Data Science with ArcGIS Pro
 
 ## 90-711 Statistical Reasoning with R
+
+```
+
+```
 
 ## 90-819 Python Programming
 
