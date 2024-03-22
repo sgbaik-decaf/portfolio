@@ -84,6 +84,6 @@ Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-de
 
 ### LIET377 Computer Aided Design and Computer Graphic
 
-### Independant Study
+### Independent Study
 
-Paper: *A Research to Identify Whether Green Management Policies of Restraunt Chains Reinforce Customers' Motive of Revisiting: Comparison by Exposure Level and Exposure Pathways* (2020, Unpublished)
+Abstract: *A Research to Identify Whether Green Management Policies of Restraunt Chains Reinforce Customers' Motive of Revisiting: Comparison by Exposure Level and Exposure Pathways* (2020, Unpublished)
