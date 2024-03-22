@@ -41,9 +41,27 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 2016-2020 | BS Environmental Science and Ecological Engineering, Korea University
 
-# Portfolio Links(Master's)
+# Portfolio Links
 
-## 94-870 Telling Stories with Data
+## Master's
+
+### 90-711 Statistical Reasoning with R
+
+Homework: *The Moving to Opportunity Experiment & Multiple Regression with Inference* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/90711_HW10_recon.html)
+
+### 90-753 Spatial Data Science with ArcGIS Pro
+
+In-class work:
+
+Individual Project: *Interactive Map of Asian Groceries* []
+
+### 90-819 Intermediate Python Programming
+
+Homework: *Basic data types, loops, and exception handling* []
+
+Homework: *Matrix Operations with `numpy` and `.array()`* []
+
+### 94-870 Telling Stories with Data
 
 Homework: *Govt Dept of the World* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_govtdept_2021.html)
 
@@ -51,33 +69,17 @@ Homework: *Internet Speed in European Countries* [TAKE A LOOK](https://sgbaik-de
 
 Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
 
-## 90-753 Spatial Data Science with ArcGIS Pro
+## Bachelor's
 
-In-class work:
-
-Individual Project: *Interactive Map of Asian Groceries* []
-
-## 90-711 Statistical Reasoning with R
-
-Homework: *The Moving to Opportunity Experiment & Multiple Regression with Inference* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/90711_HW10_recon.html)
-
-## 90-819 Intermediate Python Programming
-
-Homework: *Basic data types, loops, and exception handling* []
-
-Homework: *Matrix Operations with `numpy` and `.array()`* []
-
-# Portfolio Links(Bachelor's)
-
-> [!IMPORTANT]
+> [!WARNING]
 > Data is messy, translation is unavailable.
 
-## LIET219 Introduction to Environmental Planning and Landscape Architecture
+### LIET219 Introduction to Environmental Planning and Landscape Architecture
 
-## LIET235 Environmental GIS and Practice
+### LIET235 Environmental GIS and Practice
 
-## LIET349 Environmental Impact Assessment
+### LIET237 Environmental Information and Planning
 
-## LIET237 Environmental Information and Planning
+### LIET349 Environmental Impact Assessment
 
-## LIET377 Computer Aided Design and Computer Graphic
+### LIET377 Computer Aided Design and Computer Graphic
