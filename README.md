@@ -1,6 +1,6 @@
 # Hello World!
 
-This is a simple portfolio/repo for my retrieved & reconstructed data visualizations, codes, maps from coursework at Carnegie Mellon.
+This is a simple portfolio/repo for my retrieved & reconstructed data visualizations, codes, maps, etc.
 
 Click [HERE](https://sgbaik-decaf.github.io/portfolio) to return to `main` page of my repo.
 
@@ -8,7 +8,7 @@ You can also click the blue `portfolio` button to return to `main`.
 
 The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgbaik-decaf.github.io/portfolio).
 
-# About Me
+## About Me
 
 > [!IMPORTANT]
 > My primary contact is seunggyb@andrew.cmu.edu.
@@ -29,7 +29,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 - Smart & Sustainable Cities (i.e. walkable cities, delivery robots, transportation)
 - Data Analysis & Geogrpahic Information Systems(GIS)
 
-# Bio
+## Bio
 
 2025-     | ?
 
@@ -43,7 +43,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 # Portfolio Links
 
-## Master's
+## Master's Coursework
 
 ### 90-711 Statistical Reasoning with R
 
@@ -69,7 +69,7 @@ Homework: *Internet Speed in European Countries* [TAKE A LOOK](https://sgbaik-de
 
 Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
 
-## Bachelor's
+## Bachelor's Coursework
 
 > [!WARNING]
 > Data is messy, translation is unavailable.
