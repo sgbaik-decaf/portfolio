@@ -76,9 +76,15 @@ Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-de
 
 ### LIET237 Environmental Information and Planning
 
+Final Project: *Optimal Site Selection Project for a Simulated Biogas Plant for Yangju City* []
+
 ### LIET349 Environmental Impact Assessment
 
+Final Project: *Reconstructing the EIA of Gangneung Sports Complex Ice Skating Venue* []
+
 ### LIET377 Computer Aided Design and Computer Graphic
+
+Assignment: *Replication of a Design Proposal Poster: a Restructurizaion Project of a Historic Openspace Landmark*
 
 ### Independent Study
 
