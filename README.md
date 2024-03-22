@@ -74,8 +74,6 @@ Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-de
 > [!WARNING]
 > Data is messy, translation is unavailable.
 
-### LIET219 Introduction to Environmental Planning and Landscape Architecture
-
 ### LIET235 Environmental GIS and Practice
 
 ### LIET237 Environmental Information and Planning
