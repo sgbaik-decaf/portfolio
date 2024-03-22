@@ -41,7 +41,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 2016-2020 | BS Environmental Science and Ecological Engineering, Korea University
 
-# Portfolio Links
+# Portfolio Links(Master's)
 
 ## 94-870 Telling Stories with Data
 
@@ -66,3 +66,18 @@ Homework: *The Moving to Opportunity Experiment & Multiple Regression with Infer
 Homework: *Basic data types, loops, and exception handling* []
 
 Homework: *Matrix Operations with `numpy` and `.array()`* []
+
+# Portfolio Links(Bachelor's)
+
+> [!IMPORTANT]
+> Data is messy, translation is unavailable.
+
+## LIET219 Introduction to Environmental Planning and Landscape Architecture
+
+## LIET235 Environmental GIS and Practice
+
+## LIET349 Environmental Impact Assessment
+
+## LIET237 Environmental Information and Planning
+
+## LIET377 Computer Aided Design and Computer Graphic
