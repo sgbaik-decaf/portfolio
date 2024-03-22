@@ -55,7 +55,7 @@ In-class work:
 
 Independent Project: *Interactive Map of Asian Groceries* []
 
-### 90-819 Intermediate Python Programming
+### 90-819 Intermediate Programming with Python
 
 Homework: *Basic data types, loops, and exception handling* []
 
