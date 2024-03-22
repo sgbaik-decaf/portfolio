@@ -1,6 +1,6 @@
 # Hello World!
 
-This is a simple portfolio/repo for my coursework at Carnegie Mellon.
+This is a simple portfolio/repo for my retrieved & reconstructed data visualizations, codes, maps from coursework at Carnegie Mellon.
 
 Click [HERE](https://sgbaik-decaf.github.io/portfolio) to return to `main` page of my repo.
 
@@ -27,7 +27,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 **INTERESTS:**
 
 - Smart & Sustainable Cities (i.e. walkable cities, delivery robots, transportation)
-- Spatial Data Analysis & Geogrpahic Information Systems(GIS)
+- Data Analysis & Geogrpahic Information Systems(GIS)
 
 # Bio
 
@@ -45,19 +45,24 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 ## 94-870 Telling Stories with Data
 
-Homework 240129 : Govt Dept of the World [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/govtdept_2021.html)
+Homework: *Govt Dept of the World* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_govtdept_2021.html)
 
-Homework 240204 : Internet Speed in European Countries [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/EU_internet_speed.html)
+Homework: *Internet Speed in European Countries* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_internet_speed.html)
 
-Final Project : [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
+Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/94870_final_proj_3.html)
 
 ## 90-753 Spatial Data Science with ArcGIS Pro
 
+In-class work:
+
+Individual Project: *Interactive Map of Asian Groceries* []
+
 ## 90-711 Statistical Reasoning with R
 
-```
+Homework: *The Moving to Opportunity Experiment & Multiple Regression with Inference* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/90711_HW10_recon.html)
 
-```
+## 90-819 Intermediate Python Programming
 
-## 90-819 Python Programming
+Homework: *Basic data types, loops, and exception handling* []
 
+Homework: *Matrix Operations with `numpy` and `.array()`* []
