@@ -53,13 +53,13 @@ Homework: *The Moving to Opportunity Experiment & Multiple Regression with Infer
 
 In-class work:
 
-Individual Project: *Interactive Map of Asian Groceries* []
+Independant Project: *Interactive Map of Asian Groceries* []
 
 ### 90-819 Intermediate Python Programming
 
 Homework: *Basic data types, loops, and exception handling* []
 
-Homework: *Matrix Operations with `numpy` and `.array()`* []
+Homework: *Matrix Operations with* `numpy` *and* `.array()` []
 
 ### 94-870 Telling Stories with Data
 
@@ -83,3 +83,7 @@ Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-de
 ### LIET349 Environmental Impact Assessment
 
 ### LIET377 Computer Aided Design and Computer Graphic
+
+### Independant Study
+
+Paper: *A Research to Identify Whether Green Management Policies of Restraunt Chains Reinforce Customers' Motive of Revisiting: Comparison by Exposure Level and Exposure Pathways* (2020, Unpublished)
