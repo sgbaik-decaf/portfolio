@@ -6,81 +6,33 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 # Internet speed of European Countries
 
+This is part of an academic work of 94-870 *Telling Stories with Data* at Carnegie Mellon University.
+
 There is an interactive map *and* a stacked bar graph embedded in it. Wait till it loads. If prompted, log in with your CMU or ESRI account.
 
 For iPad users: a fullscreen alternative is available [here](https://carnegiemellon.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0781e9e4284c41248d0303d50ab5ee02)
 
 <iframe src="https://carnegiemellon.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0781e9e4284c41248d0303d50ab5ee02" width="1000" height="700" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
-This is part of an academic work of *94-870 Telling Stories with Data* (Spring 2024) at Carnegie Mellon University.
+## Original Visualization
 
+This work is based on the following visualization:
 
-
-# ORIGINAL VISUALIZATION
-
-Average internet speed across Europe
-
-Ornaldo Gjergji, European Data Journalism Network
+'Average internet speed across Europe' by Ornaldo Gjergji, European Data Journalism Network
 
 [europeandatajournalism.eu](https://datavis.europeandatajournalism.eu/obct/connectivity/#third)
 
-
-
-# DEVELOPMENT
+## Development
 
 The original visualization is already an awesome, aesthetic piece of work, but I noticed some room for improvement in the main interactive map.
 
 The geographic visualization is especially useful for the audience to navigate to the data (s)he wants: much better than a chart where one has to 'search' through the country names. However, the linear, equal-interval scale of connection speed in Mbps is questionable in terms of heuristic perceptibility. Assuming that the main audience is people with minimal-to-none sense of how much data we download during daily activities, the scale should be based on the qualitative user experience, not a numeric delivery of data.
 
-Other than the reconstruction of the interactive map, the main change is redefining the color-code scale from continuous to categorical, so that the audience can easily understand what is possible and not given a certain internet download speed.
+Other than the reconstruction of the interactive map, a major change was redefining the color-code scale from continuous to categorical, so that the audience can easily understand what is possible and not given a certain internet download speed.
 
-Also, I changed the color scheme from `pale green - blue` to `mustard brown - blue` to communicate that lower internet speed is a no-fun experience. 
+Also, I changed the color scheme from `pale green - blue` to `mustard brown - blue` to communicate that lower internet speed is a no-fun experience. I replaced the labels of countries with full names with variable visibility (no letters when zoomed out to the big picture) and added a filter showing the feasibility of "4K YouTube".
 
-I replaced the labels of countries with full names with variable visibility (no letters when zoomed out to the big picture) and added a filter showing the feasibility of "4K YouTube", following the recommendation of two testers.
-
-
-
-### Tester A (late 10's, college student) commented as below.
-
-1. How long did it take for you to recognize what this is for?
-
-> 10 seconds.
-
-2. Is there anything you find confusing?
-
-> There is too much word on the legend.
-
-3. Is there anything you find aesthetically unpleasant? Please rate this visualization on a 5-level scale.
-
-> 4.9 / 5
-
-5. Is there anything you would change or do differently?
-
-> It could have been better if you focused on one thing such as "4K YouTube".
-
-
-
-### Tester B (early 30's, post-doctorate researcher) commented as below.
-
-1. How long did it take for you to recognize what this is for?
-
-> 10 seconds.
-
-2. Is there anything you find confusing?
-
-> The abbreviated 3-letter country names obscure the map. Good otherwise.
-
-3. Is there anything you find aesthetically unpleasant? Please rate this visualization on a 5-level scale.
-
-> 4.5 / 5. I like the typeface but I don't think it's needed in the first place.
-
-5. Is there anything you would change or do differently?
-
-> The background does not match with the actual data layer. Do we need a background map? Try using Python to ... ... (technical advice).
-
-
-
-# DATA SOURCES
+## Data Sources
 
 Internet speed data from the original author's GitHub.
 
@@ -98,8 +50,7 @@ Data missing in the file were manually filled in from the original visualization
 
 Data that do not align with each other (i.e. some countries not being in the EU) were omitted due to the nature of this project.
 
-
-# Alternative prototype (Stacked bar graph)
+## Alternative prototype (Stacked bar graph)
 
 <div class='tableauPlaceholder' id='viz1707117626028' style='position: relative'><noscript><a href='#'><img alt='Internet speed of European countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;eu&#47;eu_internet_test&#47;Sheet13&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='eu_internet_test&#47;Sheet13' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;eu&#47;eu_internet_test&#47;Sheet13&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='ko-KR' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
@@ -117,30 +68,6 @@ The darker blue represents the average download speed while the lighter blue ind
 
 The reasoning behind this is that I wanted to visualize both the download and upload speed at the same time: the download speed being the primary data and the upload speed as a proportion of the download speed.
 
-Due to my limited Tableau skills, the download speed is prompted with `AGG(AVG([avg d]) - AVG([avg u]))`.
+Due to technical difficulties, the download speed is prompted with `AGG(AVG([avg d]) - AVG([avg u]))`.
 
-This is the value that pops up when one hovers the mouse on the darker blue, completely not what I intented.
-
-
-
-### Tester C (mid 20's, master's degree candidate in public policy) commented on both the map and the graph as below.
-
-1. What worked well?
-
-> I like the interactability of the map. The map is better.
-
-2. What did not work?
-
-> Knowing what each color means takes time (both the map and the graph).
-
-3. What question came up?
-
-> Why did you choose YouTube, Gmail, etc instead of internet speed?
-
-* I explained the reasoning of 'real user experience' to Tester C, and (s)he commented "Okay".
-
-5. What new inspiration arose?
-
-> You and I should work harder in making a stacked bar graph in Tableau.
-
-* Tester C was also working on a stacked bar graph with another student. 
+This is the value that pops up when one hovers the mouse on the darker blue: completely not what I intented.
