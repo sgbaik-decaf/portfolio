@@ -47,13 +47,13 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 ### 90-711 Statistical Reasoning with R
 
-Homework: *The Moving to Opportunity Experiment & Multiple Regression with Inference* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/90711_HW10_recon.html)
+Homework: *Multiple Regression with Inference* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/90711_HW10_recon.html)
 
 ### 90-753 Spatial Data Science with ArcGIS Pro
 
 In-class work:
 
-Independant Project: *Interactive Map of Asian Groceries* []
+Independent Project: *Interactive Map of Asian Groceries* []
 
 ### 90-819 Intermediate Python Programming
 
