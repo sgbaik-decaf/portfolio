@@ -1,6 +1,10 @@
-# Internet speed of European Countries
+Click [HERE](https://sgbaik-decaf.github.io/portfolio) to return to `main` page of my repo.
 
-Click the blue `portfolio` button to return to `main`.
+You can also click the blue `portfolio` button to return to `main`.
+
+The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgbaik-decaf.github.io/portfolio).
+
+# Internet speed of European Countries
 
 There is an interactive map *and* a stacked bar graph embedded in it. Wait till it loads. If prompted, log in with your CMU or ESRI account.
 
