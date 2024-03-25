@@ -72,7 +72,7 @@ Final Project: *Responsible Money is Good Money* [TAKE A LOOK](https://sgbaik-de
 ## Bachelor's Coursework
 
 > [!WARNING]
-> Data is messy, translation is unavailable.
+> Works are partially recovered
 
 ### LIET237 Environmental Information and Planning
 
