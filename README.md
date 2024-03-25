@@ -84,8 +84,8 @@ Final Project: *Reconstructing the EIA of Gangneung Sports Complex Ice Skating V
 
 ### LIET377 Computer Aided Design and Computer Graphic
 
-Assignment: *Replication of a Design Proposal Poster: a Restructurizaion Project of a Historic Openspace Landmark*
+Assignment: *Replication of a Design Proposal Poster: a Restructurization Project of a Historic Openspace Landmark* []
 
 ### Independent Study
 
-Abstract: *A Research to Identify Whether Green Management Policies of Restraunt Chains Reinforce Customers' Motive of Revisiting: Comparison by Exposure Level and Exposure Pathways* (2020, Unpublished)
+Paper: *A Research to Identify Whether Green Management Policies of Restraunt Chains Reinforce Customers' Motive of Revisiting: Comparison by Exposure Level and Exposure Pathways* (2020, Unpublished) []
