@@ -49,7 +49,7 @@ The link to the `main` is [https://sgbaik-decaf.github.io/portfolio](https://sgb
 
 Homework: *Multiple Regression with Inference* [TAKE A LOOK](https://sgbaik-decaf.github.io/portfolio/90711_HW10_recon.html)
 
-### 90-753 Spatial Data Science with ArcGIS Pro
+### 90-753 Advanced Geographic Information Systems
 
 In-class work:
 
